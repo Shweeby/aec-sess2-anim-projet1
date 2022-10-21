@@ -6,7 +6,7 @@ Il s'agissait de proposer des idées d'amination du logo ci-dessous, fourni par 
 
 ![alt text](./logo-fourni.png)
 
-## Table des matières
+# Table des matières
 
 1. [Planification de l'animation](#planification-de-lanimation)
 2. [Résultat](#résultat)
